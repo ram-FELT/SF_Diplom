@@ -3,7 +3,7 @@
  
  User-Password   (кому принадлежит)
  
-admin - admin
+admin - admin    (Админ)
 
 manager - parolmanager01   (Менеджер)
 
